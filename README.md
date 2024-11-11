@@ -14,6 +14,8 @@ A list of websites I have worked on throughout my professional career:
 - https://parts.jpl.nasa.gov/
 - https://tes.jpl.nasa.gov/
 - https://tes.jpl.nasa.gov/tropess/
+- https://deepspace.jpl.nasa.gov/
+- https://ott.jpl.nasa.gov/
 
 ## University of Southern California
 - https://arch.usc.edu/home
